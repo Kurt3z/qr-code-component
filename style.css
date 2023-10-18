@@ -7,6 +7,22 @@
 }
 
 body {
+  height: 100vh;
   background-color: hsl(212, 45%, 89%);
   font-family: "Outfit", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.component {
+  width: 400px;
+  height: 600px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+.component > img {
+  height: 350px;
 }
