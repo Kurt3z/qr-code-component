@@ -46,3 +46,25 @@ body {
   font-size: 19px;
   width: 90%;
 }
+
+@media (max-width: 375px) {
+  .component {
+    padding: 15px;
+    width: 85%;
+    height: 80%;
+    padding-bottom: 0;
+  }
+
+  .component > img {
+    height: 58%;
+    margin-bottom: 12px;
+  }
+
+  .component > h1 {
+    font-size: 22px;
+  }
+
+  .component > p {
+    font-size: 15px;
+  }
+}
