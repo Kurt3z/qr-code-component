@@ -50,3 +50,8 @@ body {
   width: 90%;
   padding-bottom: 20px;
 }
+
+.attribution {
+  position: absolute;
+  bottom: 50px;
+}
