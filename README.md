@@ -41,4 +41,4 @@ I used this challenge to learn and apply Flexbox and layout skills, but the main
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Kurt3z)
+- Frontend Mentor - [@Kurt3z](https://www.frontendmentor.io/profile/Kurt3z)
