@@ -23,8 +23,8 @@ For this challenge I used solely HTML and CSS. To create the component layout I 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Kurt3z/qr-code-component.git)
-- Live Site URL: [Add live site URL here](https://kurt3z.github.io/qr-code-component)
+- Solution URL: [Solution](https://github.com/Kurt3z/qr-code-component.git)
+- Live Site URL: [Live Preview](https://kurt3z.github.io/qr-code-component)
 
 ## My process
 
